@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Generador de Mapas de Calor</title>
+    <script>
+        function submitForm(event) {
+            event.preventDefault();
+
+            const query = document.getElementById('query').value;
+            const location = document.getElementById('location').value;
+            const maxResults = document.getElementById('maxResults').value;
+
+            fetch('/generate_heatmap', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ query, location, maxResults })
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.success) {
+                    document.getElementById('heatmap').src = data.heatmap_url;
+                    document.getElementById('heatmap-container').style.display = 'block';
+                } else {
+                    alert('Error: ' + data.error);
+                }
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                alert('An unexpected error occurred.');
+            });
+        }
+    </script>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+
+</head>
+<body>
+    <h1>Generar Heatmap</h1>
+    <form onsubmit="submitForm(event)">
+        <label for="query">Tipo de establecimiento:</label>
+        <input type="text" id="query" name="query" required><br><br>
+
+        <label for="location">Ubicación:</label>
+        <input type="text" id="location" name="location" required><br><br>
+
+        <label for="maxResults">Número máximo de resultados (1 a 60):</label>
+        <input type="range" id="maxResults" name="maxResults" min="1" max="60" value="30" oninput="this.nextElementSibling.value = this.value">
+        <output>30</output><br><br>
+
+        <button type="submit">Generar</button>
+    </form>
+
+    <div id="heatmap-container" style="display: none; margin-top: 20px;">
+        <h2>Heatmap</h2>
+        <iframe id="heatmap" src="" width="600" height="400" style="border: none;"></iframe>
+    </div>
+    
+</body>
+</html>

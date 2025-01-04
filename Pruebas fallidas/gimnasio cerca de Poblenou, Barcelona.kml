@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder id="results">
+	<name>gimnasio cerca de Poblenou, Barcelona</name>
+	<Placemark id="1.2.1">
+		<name>Nagora Fitness - Gimnasio en Poblenou, Sant Martí, Barcelona - Entrenamiento Funcional</name>
+		<address>Carrer de Bac de Roda, 120, Sant Martí, 08019 Barcelona</address>
+		<phoneNumber>668 52 09 22</phoneNumber>
+		<snippet>Carrer de Bac de Roda, 120, Sant Martí, 08019 Barcelona</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=41.4044&lng=2.19791&fid=0x12a4a3386889bbb1:0x53144c7a5c00375d&hl=es&gl=es&client=earth-client&cv=7.3.6.10155&useragent=GoogleEarth/7.3.6.10155(Windows;Microsoft Windows (6.2.9200.0);es;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_A</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=41.4044&amp;lng=2.19791&amp;fid=0x12a4a3386889bbb1:0x53144c7a5c00375d&amp;hl=es&amp;gl=es&amp;client=earth-client&amp;cv=7.3.6.10155&amp;useragent=GoogleEarth/7.3.6.10155(Windows;Microsoft Windows (6.2.9200.0);es;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>2.2025311,41.4088713,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.3.1">
+		<name>Anytime Fitness Poblenou</name>
+		<address>Carrer de Pallars, 203, Sant Martí, 08005 Barcelona</address>
+		<phoneNumber>620 26 66 15</phoneNumber>
+		<snippet>Carrer de Pallars, 203, Sant Martí, 08005 Barcelona</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=41.4044&lng=2.19791&fid=0x12a4a33dc0a00607:0x256840a5ad5fac39&hl=es&gl=es&client=earth-client&cv=7.3.6.10155&useragent=GoogleEarth/7.3.6.10155(Windows;Microsoft Windows (6.2.9200.0);es;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_B</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=41.4044&amp;lng=2.19791&amp;fid=0x12a4a33dc0a00607:0x256840a5ad5fac39&amp;hl=es&amp;gl=es&amp;client=earth-client&amp;cv=7.3.6.10155&amp;useragent=GoogleEarth/7.3.6.10155(Windows;Microsoft Windows (6.2.9200.0);es;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>2.1979374,41.4015729,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.4.1">
+		<name>BIGG Poblenou</name>
+		<address>Rambla del Poblenou, 132, Sant Martí, 08018 Barcelona</address>
+		<phoneNumber>657 11 22 35</phoneNumber>
+		<snippet>Rambla del Poblenou, 132, Sant Martí, 08018 Barcelona</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=41.4044&lng=2.19791&fid=0x12a4a3285e6c4e1d:0x595146558e93d971&hl=es&gl=es&client=earth-client&cv=7.3.6.10155&useragent=GoogleEarth/7.3.6.10155(Windows;Microsoft Windows (6.2.9200.0);es;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_C</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=41.4044&amp;lng=2.19791&amp;fid=0x12a4a3285e6c4e1d:0x595146558e93d971&amp;hl=es&amp;gl=es&amp;client=earth-client&amp;cv=7.3.6.10155&amp;useragent=GoogleEarth/7.3.6.10155(Windows;Microsoft Windows (6.2.9200.0);es;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>2.1970063,41.4045633,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.5.1">
+		<name>Entrena en Barcelona</name>
+		<address>Carrer del Perú, 179, Sant Martí, 08020 Barcelona</address>
+		<phoneNumber>606 31 61 11</phoneNumber>
+		<snippet>Carrer del Perú, 179, Sant Martí, 08020 Barcelona</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=41.4044&lng=2.19791&fid=0x12a4a337469add6b:0x793ed244fc2561c7&hl=es&gl=es&client=earth-client&cv=7.3.6.10155&useragent=GoogleEarth/7.3.6.10155(Windows;Microsoft Windows (6.2.9200.0);es;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_D</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=41.4044&amp;lng=2.19791&amp;fid=0x12a4a337469add6b:0x793ed244fc2561c7&amp;hl=es&amp;gl=es&amp;client=earth-client&amp;cv=7.3.6.10155&amp;useragent=GoogleEarth/7.3.6.10155(Windows;Microsoft Windows (6.2.9200.0);es;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>2.1997294,41.4114296,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.6.1">
+		<name>TRIB3 Poblenou</name>
+		<address>Carrer de Bilbao, 133-135, Sant Martí, 08018 Barcelona</address>
+		<phoneNumber>610 09 73 69</phoneNumber>
+		<snippet>Carrer de Bilbao, 133-135, Sant Martí, 08018 Barcelona</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=41.4044&lng=2.19791&fid=0x12a4a3e418c4e161:0x4d02a4ebf3533005&hl=es&gl=es&client=earth-client&cv=7.3.6.10155&useragent=GoogleEarth/7.3.6.10155(Windows;Microsoft Windows (6.2.9200.0);es;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_E</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=41.4044&amp;lng=2.19791&amp;fid=0x12a4a3e418c4e161:0x4d02a4ebf3533005&amp;hl=es&amp;gl=es&amp;client=earth-client&amp;cv=7.3.6.10155&amp;useragent=GoogleEarth/7.3.6.10155(Windows;Microsoft Windows (6.2.9200.0);es;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>2.1994169,41.4057628,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.7.1">
+		<name>CEM Can Felipa</name>
+		<address>Plaça Josep Maria Huertas Claveria, 1, 08005 Barcelona</address>
+		<phoneNumber>933 08 60 95</phoneNumber>
+		<snippet>Plaça Josep Maria Huertas Claveria, 1, 08005 Barcelona</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=41.4044&lng=2.19791&fid=0x12a4a33ede28dcf9:0xe4ef2207dfe0c327&hl=es&gl=es&client=earth-client&cv=7.3.6.10155&useragent=GoogleEarth/7.3.6.10155(Windows;Microsoft Windows (6.2.9200.0);es;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_F</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=41.4044&amp;lng=2.19791&amp;fid=0x12a4a33ede28dcf9:0xe4ef2207dfe0c327&amp;hl=es&amp;gl=es&amp;client=earth-client&amp;cv=7.3.6.10155&amp;useragent=GoogleEarth/7.3.6.10155(Windows;Microsoft Windows (6.2.9200.0);es;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>2.2002958,41.4036762,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.8.1">
+		<name>Fitness Bienestar</name>
+		<address>Carrer de Lope de Vega, 69, Sant Martí, 08005 Barcelona</address>
+		<phoneNumber>675 32 15 22</phoneNumber>
+		<snippet>Carrer de Lope de Vega, 69, Sant Martí, 08005 Barcelona</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=41.4044&lng=2.19791&fid=0x12a4a378e37848d3:0x1bd503dd9636458a&hl=es&gl=es&client=earth-client&cv=7.3.6.10155&useragent=GoogleEarth/7.3.6.10155(Windows;Microsoft Windows (6.2.9200.0);es;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_G</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=41.4044&amp;lng=2.19791&amp;fid=0x12a4a378e37848d3:0x1bd503dd9636458a&amp;hl=es&amp;gl=es&amp;client=earth-client&amp;cv=7.3.6.10155&amp;useragent=GoogleEarth/7.3.6.10155(Windows;Microsoft Windows (6.2.9200.0);es;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>2.204466,41.4036259,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.9.1">
+		<name>Tuluka Fitness Club - Cross Training</name>
+		<address>Carrer de Llull, 211, Sant Martí, 08005 Barcelona</address>
+		<phoneNumber>629 19 64 92</phoneNumber>
+		<snippet>Carrer de Llull, 211, Sant Martí, 08005 Barcelona</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=41.4044&lng=2.19791&fid=0x12a4a33234077fab:0x655048c2b5657e14&hl=es&gl=es&client=earth-client&cv=7.3.6.10155&useragent=GoogleEarth/7.3.6.10155(Windows;Microsoft Windows (6.2.9200.0);es;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_H</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=41.4044&amp;lng=2.19791&amp;fid=0x12a4a33234077fab:0x655048c2b5657e14&amp;hl=es&amp;gl=es&amp;client=earth-client&amp;cv=7.3.6.10155&amp;useragent=GoogleEarth/7.3.6.10155(Windows;Microsoft Windows (6.2.9200.0);es;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>2.2032702,41.4019644,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.10.1">
+		<name>DynamiCore</name>
+		<address>Av. Diagonal, 167, Sant Martí, 08018 Barcelona</address>
+		<phoneNumber>627 64 42 28</phoneNumber>
+		<snippet>Av. Diagonal, 167, Sant Martí, 08018 Barcelona</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=41.4044&lng=2.19791&fid=0x12a4a39b2a838721:0x3593124b76f23127&hl=es&gl=es&client=earth-client&cv=7.3.6.10155&useragent=GoogleEarth/7.3.6.10155(Windows;Microsoft Windows (6.2.9200.0);es;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_I</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=41.4044&amp;lng=2.19791&amp;fid=0x12a4a39b2a838721:0x3593124b76f23127&amp;hl=es&amp;gl=es&amp;client=earth-client&amp;cv=7.3.6.10155&amp;useragent=GoogleEarth/7.3.6.10155(Windows;Microsoft Windows (6.2.9200.0);es;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>2.1951802,41.4050801,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.11.1">
+		<name>Condal CrossFit Barcelona</name>
+		<address>Carrer de Pere IV, 159, Sant Martí, 08018 Barcelona</address>
+		<phoneNumber>649 76 10 06</phoneNumber>
+		<snippet>Carrer de Pere IV, 159, Sant Martí, 08018 Barcelona</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=41.4044&lng=2.19791&fid=0x12a4a2d4e51b5c2d:0x64c07f1b3b2e9470&hl=es&gl=es&client=earth-client&cv=7.3.6.10155&useragent=GoogleEarth/7.3.6.10155(Windows;Microsoft Windows (6.2.9200.0);es;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_J</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=41.4044&amp;lng=2.19791&amp;fid=0x12a4a2d4e51b5c2d:0x64c07f1b3b2e9470&amp;hl=es&amp;gl=es&amp;client=earth-client&amp;cv=7.3.6.10155&amp;useragent=GoogleEarth/7.3.6.10155(Windows;Microsoft Windows (6.2.9200.0);es;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>2.1977674,41.4031521,0</coordinates>
+		</Point>
+	</Placemark>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10155"></atom:link>
+</Folder>
+</kml>
