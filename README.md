@@ -1,4 +1,4 @@
-Heatmap Generator
+<h1>Heatmap Generator</h1>
 The Heatmap Generator is a web application that uses the Google Places API to fetch place data, extract coordinates, and generate a CSV file. This CSV file is then processed using Python to display the data in a Pandas DataFrame, and the results are presented as an interactive web page built with Flask, HTML, and CSS.
 
 Features
@@ -82,16 +82,15 @@ The Flask app serves the processed data as a heatmap or in tabular format.
 The web interface is styled with HTML and CSS for a user-friendly experience.
 Screenshots
 Main Web Page
-(Add a screenshot of the app's homepage or heatmap visualization.)
+![screencapture-127-0-0-1-5000-2025-01-04-19_42_09](https://github.com/user-attachments/assets/0e4e2b54-fd2a-4409-a80c-4c0c37117c04)
 
-Pandas DataFrame Display
-(Add a screenshot of the Pandas DataFrame shown on the web page.)
 
 Future Enhancements
 Add more visualization options, such as interactive maps.
 Allow users to dynamically query the Google Places API from the web interface.
 Optimize performance for large datasets.
 Include error handling for API limits or invalid inputs.
+Hosting a web
 Contributing
 If you'd like to contribute to the project:
 
