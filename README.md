@@ -8,8 +8,8 @@ Processes the CSV using Python and displays the data as a Pandas DataFrame.
 Visualizes the processed data in a heatmap using HTML and CSS.
 Fully functional web interface powered by Flask.
 Project Structure
-graphql
-Copiar código
+
+
 HeatMaps/
 ├── Static/
 │   ├── heatmap.html         # Heatmap visualization
@@ -45,26 +45,19 @@ bash
 Copiar código
 git clone https://github.com/sergicasesalonso/Heatmap-Generator.git
 cd Heatmap-Generator
-3. Install Dependencies
-Use pip to install the required Python packages:
 
-bash
-Copiar código
-pip install -r requirements.txt
-4. Set Up Google Places API Key
+3. Set Up Google Places API Key
 Obtain your API key from Google Cloud Console.
 Create a .env file in the project root and add your API key:
 makefile
 Copiar código
 GOOGLE_API_KEY=your_google_places_api_key
-5. Run the Application
+4. Run the Application
 Execute the script to fetch data from the Google Places API and generate the CSV:
-bash
-Copiar código
+
 python places_script.py
 Start the Flask web server:
-bash
-Copiar código
+
 python app.py
 Open your browser and go to http://127.0.0.1:5000.
 How It Works
