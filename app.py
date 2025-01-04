@@ -23,7 +23,7 @@ def generate_heatmap():
         heatmap_filename = "static/heatmap.html"
 
         # Generate data and heatmap
-        results = fetch_places(query, location, 'AIzaSyDn4CeVnXilEiMx_aVxAr_achPUwvioDkk', max_results)
+        results = fetch_places(query, location, 'API KEY', max_results)
         places = extract_place_details(results)
         save_to_csv(places, csv_filename)
         create_heatmap(csv_filename, heatmap_filename)
